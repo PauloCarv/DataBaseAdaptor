@@ -1,5 +1,5 @@
 {
-    "name": "php_bd_class",
+    "name": "DataBaseAdaptor",
     "description": "#Project: FLAG",
     "authors": [
         {
@@ -7,7 +7,7 @@
             "email": "paulo@carvalho.ws"
         }
     ],
-    "homepage": "https://bitbucket.org/devPauCarv/php_bd_class",
+    "homepage": "https://github.com/PauloCarv/DataBaseAdaptor",
     "require": {
         "phpmailer/phpmailer": "~6.0",
         "guzzlehttp/guzzle": "~6.0"
